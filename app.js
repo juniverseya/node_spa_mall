@@ -21,6 +21,7 @@ app.get("/",(req,res)=>{
   res.status(400).json(obj);
 })
 
+
 // app.get('/:id', (req,res)=> {
 //   console.log(req.params);
 

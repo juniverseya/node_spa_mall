@@ -56,3 +56,4 @@ router.get('/goods/:goodsId',(req,res)=>{
 })
 
 module.exports = router;
+
